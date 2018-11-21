@@ -6,6 +6,7 @@
 // @match        https://www1.ticketmaster.co.uk/*
 // @match        https://www1.ticketmaster.com/*
 // @match        https://www1.ticketmaster.ie/*
+// @match        https://concerts1.livenation.com/*
 // @require      https://code.jquery.com/jquery-2.1.3.min.js
 // @grant        none
 // ==/UserScript==

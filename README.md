@@ -1,4 +1,5 @@
-# TicketMaster Bot
+# TicketMaster/LiveNation Bot
+I modified it for K fans.
 
 **Important:** 
 This bot is for educational and personal use.  

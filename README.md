@@ -1,5 +1,6 @@
 # TicketMaster/LiveNation Bot
 I modified it for K fans.
+**2020 Update - I origtinally modified this rep to help KPOP fans get tickets because non-fans buy them all. The bot doesn't work anymore for KPOP. TM has resorted to lousy Java (I think) and Verified Fan which is worse than BOTS. It makes things easier for the so called scalpers. The people with the money. Think about it,it only cost $60/year for mobile phone service on 12 lines + you can buy a bulk a of burners off eBay or from the FED gov.1/4 of a sell will cover the cost of outsmarting TM. Get some sims, line the phones up on a table, and pinch/click/tap. That or run a bunch of virtual desktops from/with non-cloud IPs. Just be warned, the queue number is being stored/associated with your account AND device. If you clear local storage - it will remember your username. CLEAN LOCAL STORAGE and USE a different user name. It's the only loophole.**
 
 **Important:** 
 This bot is for educational and personal use.  
